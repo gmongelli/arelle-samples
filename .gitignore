@@ -1,0 +1,6 @@
+.venv
+.idea/*
+/samples/reports/*
+/samples/data/csv/*
+/samples/data/json/*
+/samples/data/
